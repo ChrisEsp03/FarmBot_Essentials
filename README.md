@@ -10,3 +10,5 @@ This will be a quick task so that we can assure we are comfortable performing ba
 
 Example:
 Hi, I'm Chrisian. I have successfully created a branch, committed a pull request, and then merged request with Master. With the new updated changes, I deleted the branch I used to make this edit. Try it out!
+
+Hi, I'm Denise. I have successfully created a branch, committed a pull request, and then merged request with Master. With the new updated changes, I deleted the branch I used to make this edit.
